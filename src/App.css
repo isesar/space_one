@@ -1,0 +1,22 @@
+.main{
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    flex-direction: column;
+    max-width: 100%;
+    gap:20px;
+}
+
+.main_header{
+    gap:50px;
+    align-items: center;
+    
+}
+.button {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    cursor: pointer;  
+    margin: 0 auto;
+    width: 20%; 
+    padding: 1rem;
+}
