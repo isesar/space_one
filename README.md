@@ -15,6 +15,6 @@ Please dont fork this repo when u provide your answer, dont give other applicant
 
 Steps to use this repo:
 
-1. `npm`
+1. `npm install`
 2. `npm start`
 3. To test: `npm test`
